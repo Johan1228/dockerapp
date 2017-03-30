@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="799e7671-9d6c-4589-bdb7-02a46f19c713" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circle.yml" afterPath="$PROJECT_DIR$/circle.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,13 +21,8 @@
         <entry file="file://$PROJECT_DIR$/circle.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-              <folding>
-                <marker date="1490863268927" expanded="true" signature="207:301" ph="test: &lt;1 key&gt;" />
-                <marker date="1490863268927" expanded="true" signature="215:301" ph="override: &lt;2 items&gt;" />
-                <marker date="1490863268927" expanded="true" signature="231:251" ph="docker-compose up -d" />
-                <marker date="1490863268927" expanded="true" signature="258:301" ph="docker-co…on test.py" />
-              </folding>
+              <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490861470809</updated>
-      <workItem from="1490861474248" duration="1784000" />
+      <workItem from="1490861474248" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1784000" />
+    <option name="totallyTimeSpent" value="2196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-11" width="1313" height="780" extended-state="6" />
@@ -193,13 +188,8 @@
     <entry file="file://$PROJECT_DIR$/circle.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <marker date="1490863268927" expanded="true" signature="207:301" ph="test: &lt;1 key&gt;" />
-            <marker date="1490863268927" expanded="true" signature="215:301" ph="override: &lt;2 items&gt;" />
-            <marker date="1490863268927" expanded="true" signature="231:251" ph="docker-compose up -d" />
-            <marker date="1490863268927" expanded="true" signature="258:301" ph="docker-co…on test.py" />
-          </folding>
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
